@@ -3,7 +3,7 @@ Package rpio provides GPIO access on the Raspberry PI without any need
 for external c libraries (eg. WiringPi or BCM2835).
 
 Supports simple operations such as:
-	- Pin mode/direction (input/output/clock/pwm,alt0,alt1,alt2,alt3,alt4)
+	- Pin mode/direction (input/output/clock/pwm,alt0,alt1,alt2,alt3,alt4,alt5)
 	- Pin write (high/low)
 	- Pin read (high/low)
 	- Pin edge detection (no/rise/fall/any)
